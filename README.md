@@ -1,2 +1,2 @@
-@UTFDev is the user for Ultraframe UK Ltd. dev team.
+@UTFDev is the user for the Ultraframe UK Ltd. dev team.
 
